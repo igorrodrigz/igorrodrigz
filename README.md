@@ -1,6 +1,5 @@
 ### Oi, eu sou o Igor. 👋
 
-**igorrodrigz/igorrodrigz** 
 um profissional dedicado e entusiasmado com vasta experiência em análise de dados e desenvolvimento Python.
 Meu foco principal é facilitar tarefas administrativas e criar soluções inovadoras que impulsionam o sucesso do negócio.
 Sou graduado em Tecnologia da Informação pelo Serviço Nacional de Aprendizagem Comercial (SenacRS)
@@ -13,7 +12,6 @@ Tecnologia da Informação — Certificação
 Desenvolvedor Python - Certificação
     Instituição: Digital Innovation One - DIO - ENAP
     Período: Setembro de 2023 a Abril de 2024
-
 
 Análise de Dados — Certificação
     Instituição: Escola Nacional de Administração Pública - ENAP
