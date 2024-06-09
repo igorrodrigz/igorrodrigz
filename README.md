@@ -1,4 +1,4 @@
-### Olá, eu sou o Igor Rodrigues 👋
+### Oi, meu nome é Igor 👋
 
 Um profissional dedicado e entusiasmado com a experiência em análise de dados para tomada de decisões e desenvolvimento de softwares com Python. Meu foco principal é facilitar tarefas administrativas e criar soluções inovadoras que impulsionam o sucesso do negócio. Estou cursando Tecnologia da Informação pelo Serviço Nacional de Aprendizagem Comercial (SenacRS) e continuo aprimorando minhas habilidades através de certificações e cursos especializados.
 
