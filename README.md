@@ -40,7 +40,7 @@ Um profissional dedicado e entusiasmado com vasta experiência em análise de da
 
 1. **[Lica](#)**: Laboratório de Inovação em Computação Aplicada.
 2. **[MaratonaTechRS](#)**: Repositório da ferramenta desenvolvida durante as 48 horas da Maratona Tech em prol do Rio Grande do Sul.
-3. **[Projeto-ChatSenacRS]([#](https://github.com/igorrodrigz/Projeto-ChatSenacRS))**: Projeto de Conclusão de Curso RSTI, desenvolvimento de uma central omni-channel distribuidora de leads após qualificação para setores da instituição.
+3. **[Projeto-ChatSenacRS](https://github.com/igorrodrigz/Projeto-ChatSenacRS)**: Projeto de Conclusão de Curso RSTI, desenvolvimento de uma central omni-channel distribuidora de leads após qualificação para setores da instituição.
 
 ### 📫 Contato
 
