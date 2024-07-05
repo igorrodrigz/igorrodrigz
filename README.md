@@ -18,14 +18,26 @@ Um profissional dedicado e entusiasmado com a experiência em análise de dados 
 
 [LinkedIn](https://www.linkedin.com/in/igorrodrigz) | [Blog](https://igorrodrigz.dev/blog)
 
+### Aprendendo
+- **JavaScript**
+<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />       
+  
+
 ### 🛠️ Tech Stack
+<div id=linguagens><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img heigth=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /><img heigth=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></div>
 
-- **Linguagens de Programação:** Python, HTML, CSS, SQL
-- **Análise de Dados:** Pandas, NumPy, Matplotlib
-- **Web Development:** Flask, Django
-- **Banco de Dados:** MySQL
+- **Linguagens de Programação:**
+  Python, HTML, CSS
 
-
+- **Análise de Dados:**
+  Pandas, NumPy, Matplotlib
+  
+- **Web Development:**
+  Flask, Django
+  
+- **Banco de Dados:**
+  MySQL
+  
 ### 📊 GitHub Stats
 
 ![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorrodrigz&show_icons=true&theme=radical)
