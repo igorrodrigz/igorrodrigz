@@ -29,6 +29,11 @@ Um profissional dedicado e entusiasmado com a experiência em análise de dados 
 ### 📊 GitHub Stats
 
 ![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorrodrigz&show_icons=true&theme=radical)
+<div>
+<a href="https://github.com/igorrodrigz">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrodrigz&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
 
 ### 🏆 GitHub Trophies
 
@@ -43,3 +48,5 @@ Um profissional dedicado e entusiasmado com a experiência em análise de dados 
 ### 📫 Contato
 
 Esteja à vontade para entrar em contato comigo através do meu perfil do GitHub para colaborações ou oportunidades profissionais. Estou sempre em busca de desafios empolgantes que me permitam continuar a crescer e contribuir para projetos significativos.
+
+![Snake animation](https://github.com/igorrodrigz/igorrodrigz/blob/output/github-contribution-grid-snake.svg)
