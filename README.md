@@ -21,7 +21,7 @@ Um profissional dedicado e entusiasmado com a experiência em análise de dados 
 ### Aprendendo
 - **Django**
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />       
+<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"  />       
   
 
 ### 🛠️ Tech Stack
