@@ -19,10 +19,9 @@ Um profissional dedicado e entusiasmado com a experiência em análise de dados 
 [LinkedIn](https://www.linkedin.com/in/igorrodrigz) | [Blog](https://igorrodrigz.dev/blog)
 
 ### Aprendendo
-- **Django**
+- **Django Framework**
   
-<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"  />       
-  
+<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />  
 
 ### 🛠️ Tech Stack
 <div id=linguagens><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img heigth=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /><img heigth=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /><img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></div>
