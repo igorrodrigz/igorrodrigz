@@ -8,7 +8,7 @@ Analista de Dados | Desenvolvedor Python | Especialista em Automação e BI
 
 Profissional dedicado e entusiasmado com experiência em **análise de dados para tomada de decisões** e **desenvolvimento de soluções** com Python. Meu foco principal é facilitar tarefas administrativas e criar soluções inovadoras que impulsionam o sucesso do negócio.
 
-Atualmente cursando **Tecnologia da Informação pelo Serviço Nacional de Aprendizagem Comercial (SenacRS)** e continuamente aprimorando minhas habilidades através de certificações e cursos especializados em análise de dados, automação e desenvolvimento web.
+Ano passado concluí a trilha de cursos de **Tecnologia da Informação pelo Serviço Nacional de Aprendizagem Comercial (SenacRS)** e estou continuamente aprimorando minhas habilidades através de certificações e cursos especializados em análise de dados, automação e desenvolvimento web.
 
 ### 🎯 Áreas de Interesse
 
@@ -43,6 +43,9 @@ Atualmente cursando **Tecnologia da Informação pelo Serviço Nacional de Apren
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" />
 </div>
+
+** Também quero aprender**
+Node, Nuxt, Vue.js , JavaScript, AWS
 
 ### 📚 Formação e Certificações
 
