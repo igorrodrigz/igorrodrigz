@@ -47,17 +47,17 @@ Atualmente Cursando Superior em **Técnologia em Análise e Desenvolvimento de S
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" />
 </div>
 
-** Estou aprendendo**
+**Estou aprendendo**
 <div id="web-stack">
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
-** Também quero aprender**
+**Também quero aprender**
 Node, Nuxt, Vue.js , JavaScript, AWS
 
 ### 📚 Formação e Certificações
 
-** 🎓 Superior em ADS**
+**🎓 Superior em ADS**
 - Instituição: IFFar
 
 **🎓 Tecnologia da Informação**
@@ -70,8 +70,9 @@ Node, Nuxt, Vue.js , JavaScript, AWS
 - Instituição: ENAP
 
 ### 🚀 Projetos em Destaque
+https://alertaai.com.br
 
-*Em breve estarei compartilhando projetos de análise de dados, automação e dashboards interativos que demonstram minhas habilidades práticas na resolução de problemas de negócio.*
+*Em breve estarei compartilhando mais projetos de análise de dados, automação e dashboards interativos que demonstram minhas habilidades práticas na resolução de problemas de negócio.*
 
 ### 📊 GitHub Stats
 
