@@ -1,6 +1,6 @@
 ## Olá! 👋 Sou Igor Rodrigues
 
-Analista de Dados | Desenvolvedor Python | Especialista em Automação e BI
+Analista de Dados | Desenvolvedor Python | Especialista em Automação e BI | ADS
 
 ---
 
@@ -9,6 +9,8 @@ Analista de Dados | Desenvolvedor Python | Especialista em Automação e BI
 Profissional dedicado e entusiasmado com experiência em **análise de dados para tomada de decisões** e **desenvolvimento de soluções** com Python. Meu foco principal é facilitar tarefas administrativas e criar soluções inovadoras que impulsionam o sucesso do negócio.
 
 Ano passado concluí a trilha de cursos de **Tecnologia da Informação pelo Serviço Nacional de Aprendizagem Comercial (SenacRS)** e estou continuamente aprimorando minhas habilidades através de certificações e cursos especializados em análise de dados, automação e desenvolvimento web.
+
+Atualmente Cursando Superior em **Técnologia em Análise e Desenvolvimento de Sistemas** no **Instituto Federal Farroupilha**.
 
 ### 🎯 Áreas de Interesse
 
@@ -32,21 +34,31 @@ Ano passado concluí a trilha de cursos de **Tecnologia da Informação pelo Ser
 </div>
 
 **Ferramentas de BI e Visualização:**
-- Power BI, Tableau, Apache Superset
-- Matplotlib, Seaborn, Plotly
+- Power BI, Tableau, Apache Superset, Preset.io
+- Matplotlib, Seaborn, Plotly, Pillow
 
 **Desenvolvimento Web:**
 
 <div id="web-stack">
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" />
+</div>
+
+** Estou aprendendo**
+<div id="web-stack">
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 ** Também quero aprender**
 Node, Nuxt, Vue.js , JavaScript, AWS
 
 ### 📚 Formação e Certificações
+
+** 🎓 Superior em ADS**
+- Instituição: IFFar
 
 **🎓 Tecnologia da Informação**
 - Instituição: SenacRS - RSTI
